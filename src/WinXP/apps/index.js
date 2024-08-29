@@ -159,7 +159,7 @@ export const appSettings = {
   'Internet Explorer': {
     header: {
       icon: iePaper,
-      title: 'InternetExplorer',
+      title: 'Internet Explorer',
     },
     component: InternetExplorer,
     defaultSize: {
